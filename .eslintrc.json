@@ -15,5 +15,6 @@
       }
     ],
     "object-curly-newline": 0
-  }
+  },
+  "plugins": ["react-refresh", "@react-three"]
 }
